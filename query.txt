@@ -1,2 +1,1 @@
-query_id=AAHytSEDAwAAAPK1IQOnt-eb&user=%7B%22id%22%3A6494991858%2C%22first_name%22%3A%22ajip%20KILLO%20%E2%98%A0%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22tyoboyy17%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724227481&hash=445f372c5d42af082df849590be65e2bc50722bf681fdb2e95078c1af299e065
-query_id=AAEWHPcqAwAAABYc9yp7cSPX&user=%7B%22id%22%3A7163288598%2C%22first_name%22%3A%22Tyosol17%20AltOOshka%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22tyosol17%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724227377&hash=0d4919e2418ac9cda72c06df6ab6c37f23aab76c4d3761c13f82e021f73ffa9d
+query_id=
